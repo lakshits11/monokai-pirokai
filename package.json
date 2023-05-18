@@ -6,6 +6,11 @@
     "name": "Lakshit Saini",
     "email": "lakshits11@gmail.com"
   },
+  "icon": "Monokai-Pirokai.gif",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakshits11/monokai-pirokai.git"
+  },
   "description": "The ultimate theme that combines the vibrant colors of Monokai Pro with a sleek, dark background for maximum style and productivity",
   "version": "0.0.1",
   "engines": {
