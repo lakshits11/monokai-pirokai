@@ -1,5 +1,3 @@
-Sure, here's an updated README file for your Monokai Pirokai theme extension that incorporates emojis and an exciting description:
-
 # Monokai Pirokai 🎨🔥
 
 Elevate your coding experience with Monokai Pirokai - the ultimate VS Code theme that combines the vibrant colors of Monokai Pro 🔴💚🔵 with a sleek, dark background for maximum style and functionality. With two variants - Arctic Frost 🌬️ and Beach Sunset 🌅 - Monokai Pirokai is the perfect choice for developers who demand both style and substance.
@@ -48,6 +46,12 @@ To install Monokai Pirokai, follow these easy steps:
   "workbench.iconTheme": "material-icon-theme"
 }
 ```
+## Snapshots 📸
+
+![A jsx preview of Monokai Pirokai theme](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nz0zd1pwj0vhw1knhjl2.png)
+
+
+![A jsx preview of Monokai Pirokai theme](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dwl8vhytx1zmhyzaiy2s.png)
 
 ## Conclusion 🎉
 
