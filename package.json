@@ -1,0 +1,31 @@
+{
+  "name": "monokai-pirokai",
+  "displayName": "Monokai Pirokai",
+  "publisher": "lakshits11",
+  "author": {
+    "name": "Lakshit Saini",
+    "email": "lakshits11@gmail.com"
+  },
+  "description": "The ultimate theme that combines the vibrant colors of Monokai Pro with a sleek, dark background for maximum style and productivity",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Pirokai - Arctic Frost",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Pirokai - Arctic Frost.json"
+      },
+      {
+        "label": "Monokai Pirokai - Beach Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Pirokai - Beach Sunset.json"
+      }
+    ]
+  }
+}
