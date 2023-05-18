@@ -46,17 +46,19 @@ To install Monokai Pirokai, follow these easy steps:
   "workbench.iconTheme": "material-icon-theme"
 }
 ```
-## Snapshots 📸
+## Snapshot 📸
+
+Below are snapshots for Monokai Pirokai - Beach Sunset 🌊🌄
 
 ![A jsx preview of Monokai Pirokai theme](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nz0zd1pwj0vhw1knhjl2.png)
 
 
 ![A jsx preview of Monokai Pirokai theme](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dwl8vhytx1zmhyzaiy2s.png)
 
-## Conclusion 🎉
-
-Try Monokai Pirokai for your coding environment. We believe that this theme is the perfect combination of style and functionality, and we are confident that it will help you code faster and more accurately than ever before. So why wait? Install Monokai Pirokai today and experience the excitement and energy of a truly cutting-edge VS Code theme! 💻💥
-
 ## Github
 
 Wait, there's more! If you want to take your Monokai Pirokai experience to the next level, or become more cool, be sure to check out our GitHub repository. Here you'll find all the latest updates and improvements, as well as a community of developers just like you who are passionate about creating the best possible coding environment. Join us on GitHub and start collaborating with other developers, sharing your ideas, and making Monokai Pirokai even better! 💻🤝
+
+## Conclusion 🎉
+
+Try Monokai Pirokai for your coding environment. We believe that this theme is the perfect combination of style and functionality, and we are confident that it will help you code faster and more accurately than ever before. So why wait? Install Monokai Pirokai today and experience the excitement and energy of a truly cutting-edge VS Code theme! 💻💥
