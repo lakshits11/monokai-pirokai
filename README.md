@@ -2,6 +2,7 @@
 
 Elevate your coding experience with Monokai Pirokai - the ultimate VS Code theme that combines the vibrant colors of Monokai Pro 🔴💚🔵 with a sleek, dark background for maximum style and functionality. With two variants - Arctic Frost 🌬️ and Beach Sunset 🌅 - Monokai Pirokai is the perfect choice for developers who demand both style and substance.
 
+
 ## Features 🚀
 
 Monokai Pirokai is designed to make your coding environment both stylish and productive. Its vibrant colors and sleek design make it easy on the eyes 👀, while its syntax highlighting and clear contrast between different elements make coding faster and more accurate than ever before.
